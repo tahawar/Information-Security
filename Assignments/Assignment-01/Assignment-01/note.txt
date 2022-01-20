@@ -1,0 +1,2 @@
+Dear sir, you can check the code in given screenshot and first i run the code on local cpu at tha time it takes 5 mint to crack it and then 2nd time 
+i run the code on GPU which is Nvidia Geforce RTX 1060 Max-Q Design VR Ready Graphic 8GBRAM DDR5 , but on local cpu my laptop become so hot.
